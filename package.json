@@ -81,7 +81,7 @@
     "js-cookie": "^2.2.1",
     "markdown-it": "^11.0.1",
     "markdown-it-link-attributes": "^3.0.0",
-    "mnemonist": "^0.38.3",
+    "mnemonist": "^0.39.0",
     "path-to-regexp": "^3.2.0",
     "popper.js": "^1.16.1",
     "raven-js": "^3.24.2",
