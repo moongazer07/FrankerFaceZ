@@ -87,7 +87,7 @@
     "raven-js": "^3.24.2",
     "react": "^16.14.0",
     "safe-regex": "^2.1.1",
-    "sortablejs": "^1.13.0",
+    "sortablejs": "^1.15.0",
     "sourcemapped-stacktrace": "^1.1.11",
     "text-diff": "^1.0.1",
     "vue-clickaway": "^2.2.2",
