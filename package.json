@@ -76,7 +76,7 @@
     "displacejs": "^1.4.1",
     "emoji-regex": "^9.2.2",
     "file-saver": "^2.0.5",
-    "graphql": "^15.5.0",
+    "graphql": "^15.8.0",
     "graphql-tag": "^2.12.4",
     "js-cookie": "^2.2.1",
     "markdown-it": "^11.0.1",
