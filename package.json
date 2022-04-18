@@ -72,7 +72,7 @@
     "chartjs-plugin-waterfall": "^1.0.3",
     "chartjs-plugin-zoom": "^0.7.7",
     "crypto-js": "^3.3.0",
-    "dayjs": "^1.10.5",
+    "dayjs": "^1.11.0",
     "displacejs": "^1.4.1",
     "emoji-regex": "^9.2.2",
     "file-saver": "^2.0.5",
